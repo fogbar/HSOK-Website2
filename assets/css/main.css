@@ -7,6 +7,13 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+.img_profile {
+  width: 193.78px;
+  height: 193.78px;
+  border-radius: 100px;
+  border: 2px;
+}
+
 html,
 body,
 div,
